@@ -1,6 +1,8 @@
 .site-header {
   @extend %padding-small;
   background: $brand-color;
+    /*added background image*/
+  background-image:  url("../img/images/background.png");
   border-top:5px solid $header-desc-background-color;
   display: inline-block;
   width: 100%;

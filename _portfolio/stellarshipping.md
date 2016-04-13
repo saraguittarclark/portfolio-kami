@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+title: Stellar Shipping and Transport
+thumbnail-path: "img/sshipping.png" 
+short-description: Stellar Shipping and Transport is a (sadly) fictional company. UX/UI Design work.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/sshipping.png)
+
+{:.center}
+[See it on Github](http://saraguittarclark.github.io/product_showcase/){:target="_blank"}
 
 ## Explanation
 

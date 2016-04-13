@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+title: Get It Done
+thumbnail-path: "img/pomodoro.png" 
+short-description: Pomodoro timer. Design and Development. Javascript and AngularJS.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/pomodoro.png)
+
+{:.center}
+[See code on Github](https://github.com/saraguittarclark/pomodoro-app){:target="_blank"}
 
 ## Explanation
 

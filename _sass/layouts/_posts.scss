@@ -55,6 +55,8 @@ header {
 }
 
 .post-content {
+    //added margin-top
+  margin-top: 5px;
   form {
       input[type="text"], input[type="email"] {
         width:100%;

@@ -1,13 +1,16 @@
 ---
 layout: post
-title: BlocFlix
-thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+title: Pumpkin Patch
+thumbnail-path: "img/pumpkin-patch.png"
+short-description: A pumpkin patch retail site. UX/UI Design work.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/pumpkin-patch.png)
+
+{:.center}
+[See it on Github](http://saraguittarclark.github.io/pumpkin_patch/){:target="_blank"}
 
 ## Explanation
 
