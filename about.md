@@ -14,4 +14,4 @@ I have a BA from Carleton College, of Northfield, Minnesota, in Art History, and
 
 I have a MAT from George Mason University, of Fairfax, Virginia, in Art Education, and I am certified PK-12 in Art Education.
 
-I live in Northern Virginia with a tiny human (toddler) and awesome husband.
+I live in Northern Virginia with an energetic toddler and awesome husband.
