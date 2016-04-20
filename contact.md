@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/images/selfie.png"
 ---
 
 I enjoy building responsive websites! Email me or send me a message below.

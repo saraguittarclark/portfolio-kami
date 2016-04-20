@@ -1,6 +1,9 @@
 ---
 layout: post-header
 ---
-<article>
+<article {% if page.feature-img %}class="feature-image"{% endif %}>
+	{% if page.feature-img %}
+	<img src="../{{page.feature-img}}"/>
+	{% endif %}
   <section class="post-content">{{ content }}</section>
 </article>

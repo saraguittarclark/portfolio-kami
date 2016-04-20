@@ -2,8 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/images/selfie.png"
 ---
+
+{:.center}
+![]({{ site.baseurl }}/img/images/selfie.png)
 
 
 I enjoy learning, visiting people, ocean breezes, trees. 
