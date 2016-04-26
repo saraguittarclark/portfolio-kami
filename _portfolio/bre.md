@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blue Ridge Envisioneering
-thumbnail-path: "img/BRE.png" 
+thumbnail-path: "img/BRE.png"
 short-description: Company website redesign. UX/UI Design work. HTML/CSS/Skeleton
 
 ---
