@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Blue Ridge Envisioneering
-thumbnail-path: "img/bre.png" 
+thumbnail-path: "img/BRE.png" 
 short-description: Company website redesign. UX/UI Design work. HTML/CSS/Skeleton
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bre.png)
+![]({{ site.baseurl }}/img/BRE.png)
 
 {:.center}
 [See it on Github](http://saraguittarclark.github.io/bre-landing-page/){:target="_blank"}
