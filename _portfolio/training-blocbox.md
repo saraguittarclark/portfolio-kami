@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocbox
+title: Training Project UX/UI Design - Blocbox
 thumbnail-path: "img/blocbox.png"
 short-description: SaaS note-taking application. UX/UI Design work. HTML/CSS
 
@@ -8,6 +8,8 @@ short-description: SaaS note-taking application. UX/UI Design work. HTML/CSS
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocbox.png)
+
+UX/UI Design with User Personas, User Stories and User Flows, User Testing and User-centered Design.
 
 {:.center}
 [See it on Github](http://saraguittarclark.github.io/Blocbox/){:target="_blank"}

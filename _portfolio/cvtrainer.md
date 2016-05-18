@@ -9,6 +9,8 @@ short-description: Interface design to help computers learn. Bootstrap and Angul
 {:.center}
 ![]({{ site.baseurl }}/img/cvtrainer.png)
 
+AngularJS and Javascript with Bootstrap CSS framework.
+
 {:.center}
 [See code on Github](http://saraguittarclark.github.io/cvtrainer/){:target="_blank"}
 

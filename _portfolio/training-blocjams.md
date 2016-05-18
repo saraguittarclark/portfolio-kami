@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlocJams
+title: Training Project Javascript/JQuery/Angular - BlocJams
 thumbnail-path: "img/blocjams.png" 
 short-description: Music player. Javascript and AngularJS Development.
 
@@ -8,6 +8,8 @@ short-description: Music player. Javascript and AngularJS Development.
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocjams.png)
+
+Javascript, jQuery, and AngularJS, with Buzz HTML5 Sound Library.
 
 {:.center}
 [See code on Github](https://github.com/saraguittarclark/bloc-jams-angular){:target="_blank"}

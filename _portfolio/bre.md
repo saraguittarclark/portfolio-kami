@@ -9,6 +9,8 @@ short-description: Company website redesign. UX/UI Design work. HTML/CSS/Skeleto
 {:.center}
 ![]({{ site.baseurl }}/img/BRE.png)
 
+Skeleton CSS framework for a new landing page.
+
 {:.center}
 [See it on Github](http://saraguittarclark.github.io/bre-landing-page/){:target="_blank"}
 
