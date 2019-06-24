@@ -36,6 +36,5 @@ I taught K-6 art education for 3 years in Fairfax County Public Schools.
 
 I have a BA from Carleton College, of Northfield, Minnesota, in Art History, and a Certificate of Advanced Study in Spanish. 
 
-I love many things, including wine, World of Warcraft, the Spanish language, art of all kinds even (some) postmodern works, quilting, and cooking.
+I love many things: the Spanish language, art of all kinds even (some) postmodern works, quilting, and cooking.
 
-I live in Northern Virginia with an energetic toddler and awesome husband.
