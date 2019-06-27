@@ -3,14 +3,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://saraguittarclark.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: Sara Clark # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>UI|UX Designer and Frontend Developer</h1>
+     <h1>UX Designer and Front end Developer</h1>
      <p>Doer of things</p>
   header_text_feature_image: 
   footer_text: >
@@ -68,9 +68,9 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 
-highlighter: rouge
+#highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]

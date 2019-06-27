@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
+  
   <div class="work">
     <h2>My Work</h2>
     {% for project in site.portfolio limit:8 %}
@@ -37,7 +37,7 @@ layout: default
           </p>
         </header>
         <div class="excerpt">
-          {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
+          {{ post.excerpt | strip_html | strip_newlines | truncate: 120 }}
         </div>
         <a href="{{ post.url | prepend: site.baseurl }}">
           {{ site.theme.str_continue_reading }}
